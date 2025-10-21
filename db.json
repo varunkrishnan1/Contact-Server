@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": "2656",
+      "name": "Varun",
+      "phoneNum": "7306532696",
+      "email": "krishnanvarun219@gmail.com"
+    },
+    {
+      "id": "f3ba",
+      "name": "Aswathy",
+      "phoneNum": "6282698190",
+      "email": "achu111@gmail.com"
+    },
+    {
+      "id": "cb59",
+      "name": "Nandakumar",
+      "phoneNum": "8590781479",
+      "email": "nandakumarpattoor1@gmail.com"
+    },
+    {
+      "id": "f849",
+      "name": "Rani Babu",
+      "phoneNum": "9847547828",
+      "email": "ranibabu1@gmail.com"
+    }
+  ]
+}
